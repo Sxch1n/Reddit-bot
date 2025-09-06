@@ -1,4 +1,4 @@
-username = "enter_username"
-password = "enter_password"
+username = ""
+password = ""
 client_id = ""
 client_secret = ""
